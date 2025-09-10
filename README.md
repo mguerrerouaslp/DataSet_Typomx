@@ -36,8 +36,9 @@ DataSet_Cartografiavisual/
 | #  | Tipografía | Set   | Fuente |
 |----|------------|-------|--------|
 | 01 | Aztlan     | set01 | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=193) |
-| 02 | Coatl      | set02 | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=321) |
-| 03 | Kukulcan   | set03 | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=72)  |
+| 02 | Coatl      | set01 | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=321) |
+| 03 | Kukulcan   | set01 | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=72)  |
+| 04 | Mexica   | set01 | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=65)  |
 
 ---
 
