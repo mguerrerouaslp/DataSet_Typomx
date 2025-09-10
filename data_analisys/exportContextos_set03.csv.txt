@@ -1,0 +1,11 @@
+DocIndex	Position	Left	Middle	Right
+1	21	el propósito de acompañar la	identidad	gráfica del documental Matria (2014
+2	6	realizada como parte de la	identidad	de los Juegos Olímpicos México
+0	15	riqueza cultural y lingüística de	México	. Inspirada en la flor de
+0	15	riqueza cultural y lingüística de	México	. Inspirada en la flor de
+2	11	identidad de los Juegos Olímpicos	México	1968
+2	11	identidad de los Juegos Olímpicos	México	1968
+3	54	letras. Su principal función es	ornamental	y lúdica por lo que
+1	45	tomando como referencia las letras	ornamentales	de estilo script que se
+3	93	funciones OpenType avanzadas, bordes y	ornamentos	integrados, compatibilidad con Mac Roman
+3	148	mientras que MiniBlock Borders reúne	ornamentos	y marcos accesibles directamente desde

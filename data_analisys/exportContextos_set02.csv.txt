@@ -1,0 +1,10 @@
+DocIndex	Position	Left	Middle	Right
+2	12	una serie de exposiciones que se inspira en los grabados	mexicanos	del siglo XIX y en la rica cultura del papel
+5	11	es una tipografía inspirada por el sabor de los rótulos	mexicanos	de estética kitsch, diseñada para textos cortos o titulares
+2	25	XIX y en la rica cultura del papel picado de	México	. Este arte tradicional, que consiste en recortar papel, se encuentra
+2	51	de numerosos países, además de en toda la extensión de	México	. En particular, en México, el papel picado es ampliamente utilizado
+2	55	de en toda la extensión de México. En particular, en	México	, el papel picado es ampliamente utilizado en la celebración del
+6	12	un tipo de letra inspirado en letras informales, un estilo	popular	en el sector de la pintura de letreros. Sus características
+2	40	consiste en recortar papel, se encuentra arraigado en las tradiciones	populares	de numerosos países, además de en toda la extensión de
+1	22	madera, esta fuente personalizada captura el sabor vernáculo de este	tradicional	evento mexicano
+2	28	la rica cultura del papel picado de México. Este arte	tradicional	, que consiste en recortar papel, se encuentra arraigado en las
