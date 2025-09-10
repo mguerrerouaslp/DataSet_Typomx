@@ -39,6 +39,22 @@ DataSet_Cartografiavisual/
 | 02 | Coatl      | set01 | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=321) |
 | 03 | Kukulcan   | set01 | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=72)  |
 | 04 | Mexica   | set01 | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=65)  |
+| 05 | Aguas   | set01 | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=336)  |
+| 06 | Bolivar   | set02 | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=320)  |
+| 07 | Calavera   | set02 | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=76)  |
+| 08 | DosDeTres   | set02 | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id116)  |
+| 09 | Luchita_Payol   | set02 | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=983)  |
+| 10 | Mictlan   | set02 | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=160)  |
+| 11 | Tejuino   | set02 | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=297)  |
+| 12 | Malinali   | set03 | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=328)  |
+| 13 | Matria   | set03 | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=990)  |
+| 14 | Mexico 68   | set03 | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=995)  |
+| 15 | MiniBlock   | set03 | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=18)  |
+| 16 | NeoCodex   | set03 | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=192)  |
+| 17 | Antorcha   | set04 | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=436)  |
+| 18 | James   | set04 | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=331)  |
+| 19 | Mexican Gothic   | set04 | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=304)  |
+| 20 | Occ   | set04 | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=423)  |
 
 ---
 
