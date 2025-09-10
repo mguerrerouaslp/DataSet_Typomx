@@ -31,14 +31,14 @@ DataSet_Cartografiavisual/
 ```
 ---
 
+## Tipografías incluidas en los sets
 
-### Tipografías seleccionadas
+| #  | Tipografía | Set   | Fuente |
+|----|------------|-------|--------|
+| 01 | Aztlan     | set01 | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=193) |
+| 02 | Coatl      | set02 | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=321) |
+| 03 | Kukulcan   | set03 | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=72)  |
 
-| Tipografía       |Set                        | Fuente                                                                 |
-|----------------------------------------------|-----------------------------------------------------------------------------|
-| 01 Aztlan | set01          | https://datadesign.uaslp.mx/view_typo?id=193   |
-| 02 Coatl  | set02        | https://datadesign.uaslp.mx/view_typo?id=321 |
-| 03 Kukulcan | set03        | https://datadesign.uaslp.mx/view_typo?id=72    |
 ---
 
 
