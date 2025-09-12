@@ -42,7 +42,7 @@ DataSet_Cartografiavisual/
 | 05 | Aguas   | [set02](set02/) | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=336)  |
 | 06 | Bolivar   | [set02](set02/) | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=320)  |
 | 07 | Calavera   | [set02](set02/) | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=76)  |
-| 08 | DosDeTres   | [set02](set02/) | [Ver ficha](https://datadesign.uaslp.mx/view_typo?i=d116)  |
+| 08 | DosDeTres   | [set02](set02/) | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=116)  |
 | 09 | Luchita_Payol   | [set02](set02/) | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=983)  |
 | 10 | Mictlan   | [set02](set02/) | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=160)  |
 | 11 | Tejuino   | [set02](set02/) | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=297)  |
