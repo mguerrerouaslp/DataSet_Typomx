@@ -39,7 +39,7 @@ DataSet_Cartografiavisual/
 | 02 | Coatl      | [set01](set01/) | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=321) |
 | 03 | Kukulcan   | [set01](set01/) | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=72)  |
 | 04 | Mexica   | [set01](set01/) | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=65)  |
-| 05 | Aguas   | [set01](set01/) | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=336)  |
+| 05 | Aguas   | [set02](set02/) | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=336)  |
 | 06 | Bolivar   | [set02](set02/) | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=320)  |
 | 07 | Calavera   | [set02](set02/) | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id=76)  |
 | 08 | DosDeTres   | [set02](set02/) | [Ver ficha](https://datadesign.uaslp.mx/view_typo?id116)  |
